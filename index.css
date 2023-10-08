@@ -6,7 +6,7 @@ section{
     display:flex
 }
 .top-bennar{
-    background-image: url(whit.jfif);
+    background-image: url(nwe1st.jfif);
     background-repeat: no-repeat;
     margin: 0%;
     background-size: cover;
@@ -19,7 +19,7 @@ section{
     width: 60%;
 }
 .font-size{
-    font-size: 20px;
+    font-size: 30px;
 }
 .color{
     color: rgb(121, 2, 52);
@@ -34,4 +34,28 @@ section{
     background-image: linear-gradient( rgb(16, 134, 252), blue);
     color: whitesmoke;
     font-weight: 700;
+}
+section{
+    display: flex;
+}
+.ano-width{
+    width: 50%;
+    padding: 5%;
+}
+.ano-width img{
+    width: 60%;
+}
+.ano-bottom{
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 10px;
+    background-image: linear-gradient( rgb(16, 134, 252), blue);
+    color: whitesmoke;
+    font-weight: 700;
+}
+.next-part-bennar{
+    background-image: url(new2nd.jfif);
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: cover;
 }
