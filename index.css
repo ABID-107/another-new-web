@@ -10,16 +10,20 @@ section{
     background-repeat: no-repeat;
     margin: 0%;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .width-half{
     width: 50%;
     padding: 5%;
 }
 .width-half img{
-    width: 60%;
+    width: 100%;
 }
 .font-size{
     font-size: 30px;
+    line-height: 20px;
 }
 .color{
     color: rgb(121, 2, 52);
@@ -38,6 +42,12 @@ section{
 section{
     display: flex;
 }
+.next-part-bennar{
+    background-image: url(new2nd.jfif);
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-size: cover;
+}
 .ano-width{
     width: 50%;
     padding: 5%;
@@ -53,9 +63,4 @@ section{
     color: whitesmoke;
     font-weight: 700;
 }
-.next-part-bennar{
-    background-image: url(new2nd.jfif);
-    background-repeat: no-repeat;
-    margin: 0%;
-    background-size: cover;
-}
+
