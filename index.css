@@ -59,6 +59,13 @@ body{
     color: whitesmoke;
     font-weight: 700;
 }
+.experience{
+background-image: url(bg-3rd.png);
+background-repeat: no-repeat;
+margin: 0%;
+background-size: cover;
+
+}
 .for-showdo{
     box-shadow: 10px 5px 40px 9px rgb(150, 137, 162);
     margin-left:5% ;
