@@ -2,15 +2,14 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
-section{
+.flex-container{
     display:flex
 }
 .top-bennar{
-    background-image: url(nwe1st.jfif);
+    background-image: url(bg-1st.png);
     background-repeat: no-repeat;
     margin: 0%;
     background-size: cover;
-    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -39,11 +38,8 @@ section{
     color: whitesmoke;
     font-weight: 700;
 }
-section{
-    display: flex;
-}
 .next-part-bennar{
-    background-image: url(new2nd.jfif);
+    background-image: url(bg-2nd.png);
     background-repeat: no-repeat;
     margin: 0%;
     background-size: cover;
@@ -63,4 +59,3 @@ section{
     color: whitesmoke;
     font-weight: 700;
 }
-
